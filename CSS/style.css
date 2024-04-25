@@ -1,0 +1,32 @@
+#keyboard{
+    text-align: center;
+    margin-top: 100px;
+    border: 2px solid white;
+    background-color: aliceblue;
+    padding-top: 45px;
+    margin-inline: 100px;
+    border-radius: 8px;
+    box-shadow: 20px 10px 10px grey;
+}
+
+.first{
+    padding-inline: 20px;
+    padding-block: 3px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 5px 10px 8px grey;
+    border: 2px solid black;
+    margin: 2px;
+}
+
+.second, .third{
+    padding-inline: 19px;
+    padding-block: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 5px 10px 8px grey;
+    border: 2px solid black;
+    margin: 3.5;
+}
